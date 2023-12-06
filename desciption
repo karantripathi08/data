@@ -1,0 +1,10 @@
+In this project making of data profile use of grids,flex box and divs was used.
+The grid was use to organise the bigger boxes in which use of divs occured.
+The grid contains various divisions which contains heading,image and even the paragraphs.
+After using grid for above 2 boxes another grid was used for rest of the 4 boxes.After making the abbove mentioned grids both parent grids were included in flex box.
+Then the flex box was used to design further.
+The headings and the para's were included inside the divisions.These div's were moved by making its position relative w.r.t to itself,
+with proper styling using css these were moved 
+from right/bottom to left/top.
+Nested divisions were used to place paragraphs and heading on the respective divisions.
+The meta character_set used was UTF-8;
